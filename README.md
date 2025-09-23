@@ -1,10 +1,10 @@
-<h1 aling="center">Hi there!</h1>
+<h1 aling="center">Hi there! ☃️</h1>
 
 <h2 aling="left"> ⚡️ A little about me  </h2>
 
-🤯 Currently learning TDA (Topological Data Analysis).<br>
+🏗️ Currently learning TDA (Topological Data Analysis).<br>
 🗺️ Interested in collaborating on projects that use technology to create a positive impact on people.<br>
-💡 Fun fact: Big fan of the essentials—programming and language fundamentals.<br>
+🗿 Fun fact: Big fan of the essentials—programming and language fundamentals.<br>
 🦉 Learning Prolog for fun.<br>
 
 
